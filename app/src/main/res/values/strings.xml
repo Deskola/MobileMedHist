@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MedHist</string>
+    <string name="appusername">Username</string>
+    <string name="apppassword">Password</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="todo">TODO</string>
+    <string name="logoimage">logoImage</string>
+    <string name="title_activity_patients_med_info">PatientsMedInfoActivity</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+</resources>
